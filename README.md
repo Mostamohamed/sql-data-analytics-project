@@ -3,6 +3,8 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 # DATABASE
 you can find a backup of database i used in this project in dataset folder
 # Example of reports I have done on this database
+# Report For Customers
 ![Data Architecture](docs/Report_Customers.png)
+# Report For Products
 ![Data Architecture](docs/report_products.png)
 
